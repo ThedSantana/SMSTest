@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMSTest</string>
+    <string name="txt_from">From:</string>
+    <string name="txt_content">Content:</string>
+    <string name="txt_to">To:</string>
+    <string name="but_send">Send</string>
+</resources>
