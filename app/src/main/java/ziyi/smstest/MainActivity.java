@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("TAG", "Send notification!");
 
                 sms_num.setText(address);
-                Log.d("TAG", "phone:" + address);
+                Log.d("TAG", "phone number:" + address);
                 sms_content.setText(fullMessage);
                 Log.d("TAG", "message:" + fullMessage);
             } else {
